@@ -1,4 +1,5 @@
 Comment Remover
+
 Author: Ian P (ippavlin)
 
 This program will remove commented lines from source code files for
