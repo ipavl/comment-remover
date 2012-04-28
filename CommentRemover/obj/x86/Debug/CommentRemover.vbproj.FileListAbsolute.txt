@@ -1,0 +1,25 @@
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\bin\Debug\CommentRemover.exe
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\bin\Debug\CommentRemover.pdb
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\bin\Debug\CommentRemover.xml
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\obj\x86\Debug\CommentRemover.CommentRemover.resources
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\obj\x86\Debug\CommentRemover.Resources.resources
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\obj\x86\Debug\CommentRemover.exe
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\obj\x86\Debug\CommentRemover.xml
+C:\Users\Ian\AppData\Local\Temporary Projects\CommentRemover\obj\x86\Debug\CommentRemover.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\obj\x86\Debug\CommentRemover.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\obj\x86\Debug\CommentRemover.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\obj\x86\Debug\CommentRemover.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\bin\Debug\CommentRemover.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\bin\Debug\CommentRemover.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\bin\Debug\CommentRemover.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\obj\x86\Debug\CommentRemover.CommentRemover.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\obj\x86\Debug\CommentRemover.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\CommentRemover\CommentRemover\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\CommentRemover\CommentRemover\obj\x86\Debug\CommentRemover.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\CommentRemover\CommentRemover\obj\x86\Debug\CommentRemover.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\CommentRemover\CommentRemover\obj\x86\Debug\CommentRemover.pdb
